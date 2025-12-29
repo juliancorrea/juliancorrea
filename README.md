@@ -47,7 +47,7 @@ Comfortable in environments with **high autonomy and low bureaucracy**.
 - CTO / Head of Technology (EdTech & SaaS)  
 - Co-founder of digital platforms
 
-Experience with **large-scale apps (1M+ users)**, cloud modernization, M&A technical integration, and cost optimization.
+Experience with large-scale apps, cloud modernization, M&A technical integration, and cost optimization.
 
 ---
 
