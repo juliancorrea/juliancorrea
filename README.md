@@ -3,8 +3,7 @@
 Senior Software Engineering Leader | Head of IT | CTO-level  
 📍 Recife, Brazil | 🌍 Remote-friendly
 
-Software engineering leader with **18+ years of experience** building products, scaling platforms, and leading teams in **startup and enterprise environments**.
-Software engineering leader **18+ years of experience** building and scaling products while leading teams across startup and enterprise environments.
+Software engineering leader with **18+ years of experience** building and scaling products while leading teams across startup and enterprise environments.
 
 Strong background in **hands-on engineering**, **technical strategy**, and **end-to-end SDLC ownership**, always focused on **business impact, scalability, and execution**.
 
