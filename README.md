@@ -25,7 +25,7 @@ Comfortable in environments with **high autonomy and low bureaucracy**.
 ## 🧠 Technical Focus
 
 **Backend & Frontend**
-- Node.js, TypeScript, Pythin, Java, C#, .NET  
+- Node.js, TypeScript, Python, Java, C#, .NET  
 - Next.js, React
 
 **Cloud & DevOps**
