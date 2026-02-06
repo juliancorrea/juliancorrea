@@ -11,15 +11,15 @@ Strong background in **hands-on engineering**, **technical strategy**, and **end
 
 ## 🚀 What I Do
 
-- Apply AI/LLMs to real, production use cases
-- Lead and scale engineering teams
-- Define architecture and technical strategy
-- Build cloud-native platforms (AWS-first)
-- Deliver high-availability systems and mobile apps
-- Design and deliver **BI, ETL pipelines, and data integration solutions**
-- Turn ambiguous problems into clear execution plans
-
-Comfortable in environments with **high autonomy and low bureaucracy**.
+- Apply AI and LLMs to real, production-grade use cases with measurable business impact
+- Stay hands-on with code, maintaining strong software engineering fundamentals and code quality
+- Lead, mentor, and scale software engineering teams, balancing autonomy with accountability
+- Define software architecture and technical strategy, guided by simplicity, scalability, and maintainability
+- Design and build cloud-native platforms on AWS, delivering end-to-end solutions (VPC, ECS/EKS, CI/CD, CloudFront, WAF)
+- Deliver high-availability systems and web/mobile applications, optimized for performance and reliability
+- Design and implement BI, ETL pipelines, data integration, and search solutions (including Elasticsearch)
+- Turn ambiguous and complex problems into clear, executable plans, combining technical depth with ownership
+- Comfortable in environments with **high autonomy and low bureaucracy**.
 
 ---
 
