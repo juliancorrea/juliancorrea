@@ -12,6 +12,7 @@ Strong background in **hands-on engineering**, **technical strategy**, and **end
 ## 🚀 What I Do
 
 - Apply AI and LLMs to real, production-grade use cases with measurable business impact
+- Actively building AI-native engineering teams by integrating AI assistants, automated workflows, and agent-based tooling into daily development operations.
 - Stay hands-on with code, maintaining strong software engineering fundamentals and code quality
 - Lead, mentor, and scale software engineering teams, balancing autonomy with accountability
 - Define software architecture and technical strategy, guided by simplicity, scalability, and maintainability
