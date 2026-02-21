@@ -38,6 +38,9 @@ Strong background in **hands-on engineering**, **technical strategy**, and **end
 
 **AI**
 - LLM integrations and AI-powered products
+- Building AI-native engineering teams
+- Agent-based workflows embedded into the SDLC
+- Cursor (AI-first development environment)
 - ChatGPT OpenAI, Gemini, Claude, LM Studio, Ollama, Hugging Face
 
 ---
