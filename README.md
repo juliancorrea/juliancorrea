@@ -27,11 +27,11 @@ Strong background in **hands-on engineering**, **technical strategy**, and **end
 ## 🧠 Technical Focus
 
 **Backend & Frontend**
-- Node.js, TypeScript, Python, Java, C#, .NET  
-- Next.js, React
+- Node.js, TypeScript, Python, C#, .NET   Java
+- React, Next.js
 
 **Cloud & DevOps**
-- AWS, GCP, Kubernetes, GitHub Actions, CI/CD
+- AWS, GCP, Kubernetes, ECS, GitHub Actions, CI/CD
 
 **Data & Search**
 - MySQL, PostgreSQL, MongoDB, SQL Server, Oracle, Elasticsearch
